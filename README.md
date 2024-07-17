@@ -53,7 +53,7 @@ This project demonstrates the use of an ESP32 microcontroller to implement IoT f
 1. Clone the repository to your local machine:
    ```sh
    git clone https://github.com/yourusername/ESP32_arduino_IOT_EEPROM.git
-  ```sh
+  ```
 ## Configuration
 
 ### ESP Rainmaker
