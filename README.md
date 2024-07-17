@@ -4,6 +4,21 @@
 
 This project demonstrates the use of an ESP32 microcontroller to implement IoT functionalities using Arduino. The project integrates various IoT services, including ESP Rainmaker, Alexa, Google, and IR (Infrared) communication. It also utilizes EEPROM for storing persistent data.
 
+## Use Same Congigaration Without This it will Not Work
+/**********************************************************************************
+ *  TITLE: ESP RainMaker + IR + Manual Switch control 8 Relays using ESP32 (store last GPIO state + Real time feedback + no WiFi control)
+ *  Click on the following links to learn more. 
+ *  YouTube Video: https://youtu.be/s_DGYsd4T6I
+ *  Related Blog : https://iotcircuithub.com/esp32-project-with-alexa-google-home/
+ *  by Tech StudyCell
+ *  Preferences--> Aditional boards Manager URLs : 
+ *  http://arduino.esp8266.com/stable/package_esp8266com_index.json,https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+ *  
+ *  Download Board ESP32 (2.0.3): https://github.com/espressif/arduino-esp32
+ *
+ *  Download the libraries 
+ *  IRremote Library (3.6.1): https://github.com/Arduino-IRremote/Arduino-IRremote
+
 ## Features
 
 - **ESP Rainmaker Integration**: Control and monitor your ESP32 device remotely using the ESP Rainmaker cloud service.
